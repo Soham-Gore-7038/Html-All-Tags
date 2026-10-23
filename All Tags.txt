@@ -1,0 +1,11 @@
+ Tag	 Purpose
+<html>	 Root element of an HTML document
+<head>	 Contains page metadata
+<title>	 Sets the browser tab title
+<body>	 Contains visible page content
+<!DOCTYPE html>	Declares an HTML5 document
+<meta>	  Defines metadata
+<link>	  Links external resources such as CSS
+<style>	  Adds internal CSS
+<script>  Adds or links JavaScript
+<base>	  Sets the base URL for relative links
